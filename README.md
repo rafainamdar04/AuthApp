@@ -1,39 +1,7 @@
-Here’s your **copy-paste-ready `README.md`** for your modular MERN Auth App:
 
----
-
-```markdown
 # 🛡️ MERN Modular Auth App
 
 A full-stack authentication system built using the **MERN stack (MongoDB, Express.js, React.js, Node.js)** with **JWT-based auth**, **Bootstrap 5 UI**, and clean, reusable, modular code — ready to be extended into future projects.
-
----
-
-## 📁 Project Structure
-
-```
-
-authProj/
-├── backend/
-│   ├── config/
-│   ├── controllers/
-│   ├── middleware/
-│   ├── models/
-│   ├── routes/
-│   ├── .env
-│   └── server.js
-└── frontend/
-├── public/
-├── src/
-│   ├── components/
-│   ├── context/
-│   ├── pages/
-│   ├── routes/
-│   ├── App.jsx
-│   └── index.js
-
-````
-
 ---
 
 ## 🚀 Features
