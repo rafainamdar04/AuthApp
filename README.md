@@ -20,7 +20,7 @@ A full-stack authentication system built using the **MERN stack (MongoDB, Expres
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/your-username/authProj.git
+git clone https://github.com/rafainamdar04/authProj.git
 cd authProj
 ````
 
